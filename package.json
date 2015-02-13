@@ -1,0 +1,23 @@
+{
+  "name": "browserify-coffee-seed",
+  "version": "0.1.0",
+  "description": "A seed project to get started with gulp, browserify and coffeescript.",
+  "main": "dist/all.js",
+  "devDependencies": {
+    "coffee-script": "^1.8.0",
+    "coffeeify": "^1.0.0",
+    "gulp": "^3.8.10",
+    "gulp-browserify": "^0.5.0",
+    "gulp-coffeelint": "^0.4.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pleasurazy <pleasurazy@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^2.1.3"
+  }
+}
